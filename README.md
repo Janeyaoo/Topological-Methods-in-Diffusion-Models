@@ -26,13 +26,13 @@ This repository collects and summarizes research works that combine Topological 
 ## Categories 🧰
 ### Topology + Diffusion
 -  **TopodiffusionNet（TDN）| Topology-based objective function**
-Gupta, S., Samaras, D., & Chen, C. (2024). TopoDiffusionNet: A Topology-aware Diffusion Model. arXiv:2410.16646. Retrieved October 01, 2024, from [Paper](https://ui.adsabs.harvard.edu/abs/2024arXiv241016646G) | [Code](https://github.com/Saumya-Gupta-26/TopoDiffusionNet)
+Gupta, S., Samaras, D., & Chen, C. (2024). TopoDiffusionNet: A Topology-aware Diffusion Model. arXiv:2410.16646. Retrieved October 01, 2024, from [Paper](https://arxiv.org/pdf/2410.16646) | [Code](https://github.com/Saumya-Gupta-26/TopoDiffusionNet)
 
 -  **Loss function | Betti number** 
-Hu, X., Fuxin, L., Samaras, D., & Chen, C. (2019). Topology-Preserving Deep Image Segmentation. arXiv:1906.05404. Retrieved June 01, 2019, from [Paper](https://ui.adsabs.harvard.edu/abs/2019arXiv190605404H)｜ [Code]()
+Hu, X., Fuxin, L., Samaras, D., & Chen, C. (2019). Topology-Preserving Deep Image Segmentation. arXiv:1906.05404. Retrieved June 01, 2019, from [Paper](https://arxiv.org/pdf/1906.05404)｜ [Code]()
 
 -  **Latent Diffusion Models（LDM）｜Persistent Homology** 
-Hu, J., Fei, B., Xu, B., Hou, F., Yang, W., Wang, S., Lei, N., Qian, C., & He, Y. (2024). Topology-Aware Latent Diffusion for 3D Shape Generation. arXiv:2401.17603. Retrieved January 01, 2024, from [Paper](https://ui.adsabs.harvard.edu/abs/2024arXiv240117603H) | [Code]()
+Hu, J., Fei, B., Xu, B., Hou, F., Yang, W., Wang, S., Lei, N., Qian, C., & He, Y. (2024). Topology-Aware Latent Diffusion for 3D Shape Generation. arXiv:2401.17603. Retrieved January 01, 2024, from [Paper](https://arxiv.org/pdf/2401.17603) | [Code]()
 
 - **TopoDiff｜Structural Topology Optimization｜GAN**\
 🌟 Mazé, F., & Ahmed, F. (2023). Diffusion Models Beat GANs on Topology Optimization. Proceedings of the AAAI Conference on Artificial Intelligence, 37(8), 9108-9116. [Paper](https://doi.org/10.1609/aaai.v37i8.26093) | [Code](https://decode.mit.edu/projects/topodiff/)
@@ -41,10 +41,10 @@ Hu, J., Fei, B., Xu, B., Hou, F., Yang, W., Wang, S., Lei, N., Qian, C., & He, Y
 Khalil, E. B., Dilkina, B., & Song, L. (2014). Scalable diffusion-aware optimization of network topology Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining, New York, New York, USA. [Paper](https://doi.org/10.1145/2623330.2623704) | [Code]()
 
 - **DiffAN｜Causal discovery｜**
-Sanchez, P., Liu, X., O'Neil, A. Q., & Tsaftaris, S. A. (2022). Diffusion Models for Causal Discovery via Topological Ordering. arXiv:2210.06201. Retrieved October 01, 2022, from [Paper](https://ui.adsabs.harvard.edu/abs/2022arXiv221006201S) | [Code](https://github.com/vios-s/DiffAN)
+Sanchez, P., Liu, X., O'Neil, A. Q., & Tsaftaris, S. A. (2022). Diffusion Models for Causal Discovery via Topological Ordering. arXiv:2210.06201. Retrieved October 01, 2022, from [Paper](https://arxiv.org/pdf/2210.06201) | [Code](https://github.com/vios-s/DiffAN)
 
 - **TOLDM | Latent Diffusion | Multi-Stage Strategy | Cross-Attention**
-Sanchez, P., Liu, X., O'Neil, A. Q., & Tsaftaris, S. A. (2022). Diffusion Models for Causal Discovery via Topological Ordering. arXiv:2210.06201. Retrieved October 01, 2022, from [Paper](https://ui.adsabs.harvard.edu/abs/2022arXiv221006201S) | [Code]()
+Sanchez, P., Liu, X., O'Neil, A. Q., & Tsaftaris, S. A. (2022). Diffusion Models for Causal Discovery via Topological Ordering. arXiv:2210.06201. Retrieved October 01, 2022, from [Paper](https://arxiv.org/pdf/2210.06201) | [Code]()
 
 ### Diffusion + TSP 
 - **Difusco| TSP**
