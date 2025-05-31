@@ -60,5 +60,5 @@ This repository collects and summarizes research works that combine Topological 
 > 📖 Sun, Z., & Yang, Y. (2023). Difusco: Graph-based diffusion solvers for combinatorial optimization. Advances in neural information processing systems, 36, 3706-3731.[Paper](https://arxiv.org/pdf/2302.08224) | [Code](https://github.com/Edward-Sun/DIFUSCO)
 - **IDEQ ｜ Hamiltonian tour｜2-opt**
   
-> 📖 Basson, M., & Preux, P. (2024). IDEQ: an improved diffusion model for the TSP. arXiv:2412.13858. Retrieved December 01, 2024, from [Paper](https://ui.adsabs.harvard.edu/abs/2024arXiv241213858B) | [Code]()
+> 📖 Basson, M., & Preux, P. (2024). IDEQ: an improved diffusion model for the TSP. arXiv:2412.13858. Retrieved December 01, 2024, from [Paper](https://arxiv.org/pdf/2412.13858) | [Code]()
 
