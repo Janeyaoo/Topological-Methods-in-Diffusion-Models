@@ -17,7 +17,7 @@ This repository collects and summarizes research works that combine Topological 
 - Method: Inject Gaussian noise to perturb RTD-Lite output and initial the diffusion process.
 
 ### RTD-Lite as Input Feature/Conditioning
-- Goal: Use RTD-Lite features(e.g., Betti numbers or structural summaries) as input to the neural network.
+- Goal: Use RTD-Lite features(e.g., Betti numbers or structural summaries) get initial clustering based on topological similarity as input to the neural network.
 - Setup:
   - Incorporate RTD-Lite into a 10-NN graph with topological annotation.
   - Guide the model to learn difficult configuration by showing RTD-Lite-derived-topologies.
