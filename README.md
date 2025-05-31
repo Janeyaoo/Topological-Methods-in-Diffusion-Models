@@ -1,4 +1,4 @@
-# 🧠 Topological Methods in Diffusion Models：Ideas & Collection
+# Topological Methods in Diffusion Models：Directions & Collection
 
 【Topology Information】、【Diffusion models】、【combinatorial problems】【TSP】…… 
 
@@ -6,7 +6,7 @@ This project try to integrate RTD-Lite into diffusion models - as loss, initiali
 
 This repository collects and summarizes research works that combine Topological Data Analysis (TDA) with diffusion models, aiming to improve solutions to combinatorial optimization problems such as the Traveling Salesman Problem (TSP).
 
-## Ideas💡
+## Directions💡
 ### RTD-Lite as a Loss Function/Regularity
 - Goal:Use RTD-Lite as a topological regularizer or loss function in a diffusion-based model
 - Form: $\text{Loss} = \hat{\mathcal{O}} + \hat{\mathcal{O}}_{\text{RTD-Lite}}$
